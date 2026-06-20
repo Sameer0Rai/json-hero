@@ -13,7 +13,7 @@ JSON Hero allows developers to instantly **format**, **validate**, **minify**, *
 
 ## 🌐 Live Demo
 
-**Live URL:** https://your-vercel-link.vercel.app
+**Live URL:** https://json-hero.vercel.app/
 
 ---
 
@@ -168,10 +168,8 @@ JSON Hero runs entirely inside your browser.
 
 ### Home Page
 
-> Add your screenshot here
-
 ```md
-![Home Page](./public/screenshot.png)
+![Home Page](./public/image.png)
 ```
 
 ---
@@ -239,7 +237,7 @@ json-hero/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/json-hero.git
+git clone https://github.com/Sameer0Rai/json-hero.git
 ```
 
 Move into the project:
