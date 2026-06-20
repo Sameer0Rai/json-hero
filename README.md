@@ -168,9 +168,9 @@ JSON Hero runs entirely inside your browser.
 
 ### Home Page
 
-```md
-![Home Page](./public/image.png)
-```
+
+![Home Page](public/image.png)
+
 
 ---
 
